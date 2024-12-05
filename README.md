@@ -11,4 +11,6 @@ machine learning model to operate without revealing internal mechanisms nor the 
 being used, ensuring both verification of the model but also privacy preservation. This project lays the
 groundwork for a potential reCAPTCHA v4, which uses a client’s behavioural data while at the same
 time preserving their privacy.
+
+
 Keywords: reCAPTCHA, machine learning, zero knowledge, zkSNARK, One-Class SVM
